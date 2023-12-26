@@ -627,7 +627,7 @@ function _default(name, version, hashfunc) {
  *
  * @providesModule CharacterMetadata
  * @format
- * 
+ *
  */
 
 
@@ -748,7 +748,7 @@ module.exports = CharacterMetadata;
  *
  * @providesModule findRangesImmutable
  * @format
- * 
+ *
  */
 
 
@@ -840,7 +840,7 @@ module.exports = _objectWithoutProperties;
  *
  * @providesModule getFragmentFromSelection
  * @format
- * 
+ *
  */
 
 
@@ -1638,7 +1638,7 @@ module.exports = _objectWithoutPropertiesLoose;
  *
  * @providesModule getContentStateFragment
  * @format
- * 
+ *
  */
 
 
@@ -1708,7 +1708,7 @@ module.exports = getContentStateFragment;
  *
  * @providesModule randomizeBlockMapKeys
  * @format
- * 
+ *
  */
 
 
@@ -1827,7 +1827,7 @@ module.exports = randomizeBlockMapKeys;
  *
  * @providesModule ContentBlockNode
  * @format
- * 
+ *
  *
  * This file is a fork of ContentBlock adding support for nesting references by
  * providing links to children, parent, prevSibling, and nextSibling.
@@ -1988,7 +1988,7 @@ module.exports = ContentBlockNode;
  *
  * @providesModule generateRandomKey
  * @format
- * 
+ *
  */
 
 
@@ -2022,7 +2022,7 @@ module.exports = generateRandomKey;
  *
  * @providesModule removeEntitiesAtEdges
  * @format
- * 
+ *
  */
 
 

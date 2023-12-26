@@ -1,5 +1,5 @@
 {
-  "name": "braft-editor",
+  "name": "bf-editor-qolio",
   "version": "2.3.8",
   "description": "Rich Text Editor Based On Draft.js",
   "main": "dist/index.js",
@@ -12,17 +12,7 @@
     "build-output-css": "node ./playground/webpack/scss-output.js",
     "test": "npm run lint"
   },
-  "repository": "https://github.com/margox/braft",
-  "keywords": [
-    "braft",
-    "draft",
-    "draft-js",
-    "rich",
-    "text",
-    "editor",
-    "rich-text-editor",
-    "wysiwyg"
-  ],
+  "repository": "https://github.com/Alpha-Analytics/braft-editor",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
